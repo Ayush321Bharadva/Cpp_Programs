@@ -1,5 +1,4 @@
-// C++ program for implementation
-// of Bubble sort
+// implementation of Bubble sort
 #include <iostream>
 using namespace std;
 
@@ -38,4 +37,3 @@ int main()
 	printArray(arr, N);
 	return 0;
 }
-// This code is contributed by rathbhupendra
