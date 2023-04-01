@@ -8,7 +8,7 @@ string isPalindrome(string S)
 
 		// If S[i] is not equal to S[N-i-1]
 		if (S[i] != S[S.length() - i - 1]) {
-			// Return No
+			//String is not Palindrome Return No
 			return "No";
 		}
 	}
@@ -21,9 +21,4 @@ int main()
     cout << isPalindrome(S);
   return 0;
 }
-
-
-// #include <bits/stdc++.h>
-
-
 

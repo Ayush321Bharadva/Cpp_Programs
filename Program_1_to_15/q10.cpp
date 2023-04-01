@@ -35,6 +35,7 @@ int main()
         //flag = false -> not prime
         if (flag)
         {
+            //print prime numbers
             cout << i << " ";
         }    
     }    
