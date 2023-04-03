@@ -29,7 +29,7 @@ void bucketSort(float arr[], int n)
     }
   }
 }
-
+// main function
 int main()
 {
   float arr[] = {13.0, 9.0, 7.0, 51.0, 26.0, 29.0, 73.0, 69.0, 97.0, 83.0, 82.0, 36.0};
@@ -48,6 +48,5 @@ int main()
   {
     cout << arr[i] << " ";
   }
-
   return 0;
 }
